@@ -47,7 +47,7 @@ Maxwell's text is in the public domain. The transcription and typesetting are de
 ## Earlier versions
 
 Earlier versions were published on Zenodo, [doi:10.5281/zenodo.20653107](https://doi.org/10.5281/zenodo.20653107).
-That record is no longer updated.
+Zenodo has blocked access to our account, so please use this repository from now on.
 
 ---
 
